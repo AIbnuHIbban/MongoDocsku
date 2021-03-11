@@ -15,7 +15,7 @@ Untuk Membuat Collection gunakan perintah **db.createCollection(name, options)**
 
 #### Menampilkan Daftar Collection
 ```
-show collection
+show collections
 ```
 
 #### Menghapus Collection
